@@ -17,13 +17,7 @@ Original Data Format
 ```
 
 Transformed Data Format
-```csv
+```bash
 Airline Name,Overall Rating,Sentiment,Review Title,Review Date,Verified,Review,Aircraft,Type of Traveller,Seat Type,Route,Date Flown,Seat Comfort,Cabin Staff Service,Food & Beverages,Ground Service,Inflight Entertainment,Wifi & Connectivity,Value For Money,Recommended
 AB Aviation,9,1,pretty decent airline,2019-11-11,True,"Moroni to Moheli. Turned out to be a pretty decent airline. Online booking worked well, checkin and boarding was fine and the plane looked well maintained. It's a very short flight - just 20 minutes or so so I didn't expect much but they still managed to hand out a bottle of water and some biscuits which I thought was very nice. Both flights on time.",,Solo Leisure,Economy Class,Moroni to Moheli,November 2019,4.0,5.0,4.0,4.0,,,3.0,yes
 '''
-
-| Left |  Center  | Right |
-|:-----|:--------:|------:|
-| L0   | **bold** | $1600 |
-| L1   |  `code`  |   $12 |
-| L2   | _italic_ |    $1 |
