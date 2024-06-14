@@ -18,8 +18,8 @@ AB Aviation	9	pretty decent airline	11th November 2019	True	Moroni to Moheli. Tu
 
 Transformed Data Format
 ```bash
-Airline Name	Overall Rating	Sentiment	Review Title	Review Date	Verified	Review	Aircraft	Type Of Traveller	Seat Type	Route	Date Flown	Seat Comfort	Cabin Staff Service	Food & Beverages	Ground Service	Inflight Entertainment	Wifi & Connectivity	Value For Money	Recommended
-AB Aviation	9	1	pretty decent airline	2019-11-11	True	Moroni to Moheli. Turned out to be a pretty decent airline. Online booking worked well, checkin and boarding was fine and the plane looked well maintained. It's a very short flight - just 20 minutes or so so I didn't expect much but they still managed to hand out a bottle of water and some biscuits which I thought was very nice. Both flights on time.		Solo Leisure	Economy Class	Moroni to Moheli	November 2019	4.0	5.0	4.0	4.0			3.0	yes
+Airline Name,Overall Rating,sentiment,Review Title,Review Date,Verified,Review,Aircraft,type_of_traveller,seat_type,route,date_flown,seat_comfort,cabin_staff_service,food_and_beverages,ground_service,inflight_entertainment,wifi_and_connectivity,value_and_money,recommended
+AB Aviation,9,1,pretty decent airline,2019-11-11,True,"Moroni to Moheli. Turned out to be a pretty decent airline. Online booking worked well, checkin and boarding was fine and the plane looked well maintained. Its a very short flight - just 20 minutes or so so i didn't expect much but they still managed to hand our a bottle of water and some biscuits which i though was very nice. Both flights on time.",,Solo Leisure,Economy Class,Moroni to Moheli,November 2019,4.0,5.0,4.0,4.0,,,3.0,yes
 ```
 
 ## Code Overview
